@@ -1,2 +1,2 @@
 # PrzydatneSkrypty
-Skrypty które przydatne do pracy
+Skrypty przydatne do pracy i nauki
