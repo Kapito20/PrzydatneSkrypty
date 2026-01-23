@@ -1,2 +1,3 @@
 # PrzydatneSkrypty
-Skrypty przydatne do pracy i nauki
+Skrypty okazały się przydatne podczas pracy i nauki korzystając z systemu Linux
+
